@@ -1,0 +1,16 @@
+/home/helena/workspace/Revisao/bin/Debug/net5.0/Revisao
+/home/helena/workspace/Revisao/bin/Debug/net5.0/Revisao.deps.json
+/home/helena/workspace/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.json
+/home/helena/workspace/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.dev.json
+/home/helena/workspace/Revisao/bin/Debug/net5.0/Revisao.dll
+/home/helena/workspace/Revisao/bin/Debug/net5.0/ref/Revisao.dll
+/home/helena/workspace/Revisao/bin/Debug/net5.0/Revisao.pdb
+/home/helena/workspace/Revisao/obj/Debug/net5.0/Revisao.csprojAssemblyReference.cache
+/home/helena/workspace/Revisao/obj/Debug/net5.0/Revisao.GeneratedMSBuildEditorConfig.editorconfig
+/home/helena/workspace/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfoInputs.cache
+/home/helena/workspace/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfo.cs
+/home/helena/workspace/Revisao/obj/Debug/net5.0/Revisao.csproj.CoreCompileInputs.cache
+/home/helena/workspace/Revisao/obj/Debug/net5.0/Revisao.dll
+/home/helena/workspace/Revisao/obj/Debug/net5.0/ref/Revisao.dll
+/home/helena/workspace/Revisao/obj/Debug/net5.0/Revisao.pdb
+/home/helena/workspace/Revisao/obj/Debug/net5.0/Revisao.genruntimeconfig.cache
